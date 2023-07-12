@@ -1,0 +1,25 @@
+.btn{
+    width: 26rem;
+    height: 4rem;
+    border-radius: 6px;
+    padding: .5rem 2rem;
+    border: none;
+    font-size: 14px;    
+}
+.btn:hover {
+    cursor: pointer;
+    opacity:.9;
+}
+.filled-btn{
+    margin-bottom: .3rem;
+    background-color: rgb(21, 101, 216, .9);
+    color: #fff;
+}
+.empty-btn{
+    background: none;
+    margin: 1rem 0;
+    color: #000;
+    font-weight: 600;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+

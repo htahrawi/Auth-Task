@@ -1,0 +1,24 @@
+form {
+    display: flex;
+    flex-direction: column;
+}
+.custom-input {
+    width: 26rem;
+    height: 4rem;
+    border-radius: 6px;
+    padding: .5rem 2rem;
+    font-size: 14px;
+    border-color: #8692A6;
+    margin-bottom: 1rem;
+}
+.input-label{
+    font-size: 16px;
+    color: #696F79;
+    font-weight: 600;
+    padding: 1rem 0 .5rem 0;
+    letter-spacing: .4px;
+}
+.checkbox-container label{
+    cursor: pointer;
+    padding-left: .5rem;
+}
